@@ -1,2 +1,2 @@
 
-Live Link(https://onepunchmanz.github.io/Portfolio/)
+[Live Link](https://onepunchmanz.github.io/Portfolio/)
